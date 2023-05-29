@@ -1,6 +1,6 @@
 import "./App.css";
 
-const DOCUMENT_URL = "/sample.pdf";
+const DOCUMENT_URL = "/pdfs/lesson 05 - not loading all pages.pdf";
 
 function App() {
   return (
