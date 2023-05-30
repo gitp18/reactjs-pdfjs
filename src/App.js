@@ -1,6 +1,6 @@
 import "./App.css";
 
-const DOCUMENT_URL = "/pdfs/lesson 02 - missing header - font - image.pdf";
+const DOCUMENT_URL = "/pdfs/lesson 01 - missing font - gets stuck on mobile.pdf";
 
 function App() {
   return (
