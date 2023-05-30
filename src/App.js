@@ -1,6 +1,6 @@
 import "./App.css";
 
-const DOCUMENT_URL = "/pdfs/lesson 20 - pages 1 to 6 appear blank.pdf";
+const DOCUMENT_URL = "/pdfs/lesson 02 - missing header - font - image.pdf";
 
 function App() {
   return (
